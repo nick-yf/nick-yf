@@ -3,7 +3,7 @@
 I’m **Yifan Qin**, a Master’s student in Computer Science at ShanghaiTech University.  
 Feel free to explore my work and projects below!
 
-[![Yifan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-yf)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Yifan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-yf)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
